@@ -12,9 +12,9 @@
                 "code": "*"
             }
         },
-        "transaction_id": "d6ed7372-e8eb-4c2d-8d9b-7b038c1668dd",
-        "message_id": "a67e4731-f3ea-4229-9598-82a2826e3067",
-        "timestamp": "2025-01-24T07:56:26.370Z",
+        "transaction_id": "7828b1b1-969a-4db0-a6cb-6b5c9c266f6a",
+        "message_id": "39e4da30-837b-48ea-b14a-8badda770558",
+        "timestamp": "2025-01-29T09:59:16.003Z",
         "domain": "ONDC:NTS10",
         "version": "2.0.0",
         "ttl": "PT10M",
@@ -25,7 +25,7 @@
         "receiver_app_id": "preprod.cart.box8.co.in",
         "settlement": {
             "type": "NP-NP",
-            "id": "659e8f3c-213f-45d4-acd7-3351ed252e1c",
+            "id": "ddc3d899-4f18-4d47-99a8-7aabbcb079f4",
             "orders": [
                 {
                     "id": "7EZK66C",
@@ -49,15 +49,16 @@
                     },
                     "self": {
                         "amount": {
-                            "value": "570.00",
+                            "value": "20.00",
                             "currency": "INR"
                         },
                         "status": "SETTLED",
                         "reference_no": "1238683618634"
                     },
                     "provider": {
+                        "id": "L:34:13",
                         "amount": {
-                            "value": "0.00",
+                            "value": "550.00",
                             "currency": "INR"
                         },
                         "status": "SETTLED",
